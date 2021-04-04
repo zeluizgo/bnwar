@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my github samples code - BNWAR
 
-You can use the [editor on GitHub](https://github.com/zeluizgo/bnwar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+BNWAr was the acronymn for Bonuses Web Aplication Resource for HR of Citibank Brazil control the bonuses for its executives.
+I've just picked up two samples of servlets:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Login - The login servlet which processes the login request and redirect (grant or not) to another page into web.
+2. CheckUpdate - An Update servlet which processes a form submission and processes the data into database.
 
-### Markdown
+And one saple of ORACLE DB Script:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zeluizgo/bnwar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+3. kbn_check - An Oracle package with some procedures, one of then "pbn_approve" was used in the ChekUpdate java above.
