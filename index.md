@@ -1,6 +1,7 @@
 ## Welcome to my github samples code - BNWAR
 
-BNWAr was the acronymn for Bonuses Web Aplication Resource for HR of Citibank Brazil control the bonuses for its executives.
+BNWAr was the acronymn for Bonuses Web Aplication Resource for HR of Citibank Brazil control the bonuses for its executives. This system was coded near 2002 Nilton's (RIP) java developer and I supported and made enhances after him at same year.
+
 I've just picked up two samples of servlets:
 
 1. Login - The login servlet which processes the login request and redirect (grant or not) to another page into web.
